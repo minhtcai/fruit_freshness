@@ -1,4 +1,4 @@
-![Sample Image](https://raw.githubusercontent.com/minhtcai/fruit_freshness/main/cover.png)
+![](./cover.png)
 
 # Predict Fruit Freshness using Structured Light Data
 

@@ -1,6 +1,6 @@
 ![](./cover.png)
 
-# Predict Fruit Freshness using Structured Light Data
+# Predict Fruit Freshness using Structured Light Data (Updating)
 
 ## Intro
 

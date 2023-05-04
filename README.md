@@ -4,7 +4,7 @@
 
 ## Intro
 
-This repository contains the code and resources for our research on utilizing structured light techniques fruit freshness prediction. We built our own data pipeline and collected images in various conditions, our work demonstrates that structured light methods can provide valuable information for downstream tastk. The presentation and the report could be found [here](https://docs.google.com/presentation/d/1U7qYeAOosmj36D6bmybok-jwUEahBSwIgsE5ZTu4PPo/edit#slide=id.g21238f436ba_0_633) and [here](https://arxiv.org/pdf/2212.01552.pdf). 
+This repository contains the code and resources for our research on utilizing structured light techniques fruit freshness prediction. We built our own data pipeline and collected images in various conditions, our work demonstrates that structured light methods can provide valuable information for downstream tasts. The presentation and the report could be found [here](https://docs.google.com/presentation/d/1U7qYeAOosmj36D6bmybok-jwUEahBSwIgsE5ZTu4PPo/edit#slide=id.g21238f436ba_0_633) and [here](https://arxiv.org/pdf/2212.01552.pdf). 
 
 ## Replicate
 
